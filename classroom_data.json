@@ -1,0 +1,4366 @@
+[
+    {
+        "room": "700 WWP",
+        "number": "01440"
+    },
+    {
+        "room": "700 WWP",
+        "number": "A00214"
+    },
+    {
+        "room": "ANDERSON",
+        "number": "G00304"
+    },
+    {
+        "room": "ANDERSON",
+        "number": "G00305"
+    },
+    {
+        "room": "ANDERSON",
+        "number": "G00313"
+    },
+    {
+        "room": "ANDERSON",
+        "number": "G00419"
+    },
+    {
+        "room": "ANDERSON",
+        "number": "G00503"
+    },
+    {
+        "room": "BIO SCI",
+        "number": "00154"
+    },
+    {
+        "room": "BIO SCI",
+        "number": "00210C"
+    },
+    {
+        "room": "BIO SCI",
+        "number": "00283"
+    },
+    {
+        "room": "BIO SCI",
+        "number": "00301"
+    },
+    {
+        "room": "BIO SCI",
+        "number": "00383"
+    },
+    {
+        "room": "BIO SCI",
+        "number": "00401"
+    },
+    {
+        "room": "BIO SCI",
+        "number": "00483"
+    },
+    {
+        "room": "BIO SCI",
+        "number": "00501"
+    },
+    {
+        "room": "BOELTER",
+        "number": "00000"
+    },
+    {
+        "room": "BOELTER",
+        "number": "01541"
+    },
+    {
+        "room": "BOELTER",
+        "number": "01567"
+    },
+    {
+        "room": "BOELTER",
+        "number": "01762B"
+    },
+    {
+        "room": "BOELTER",
+        "number": "01805"
+    },
+    {
+        "room": "BOELTER",
+        "number": "02444"
+    },
+    {
+        "room": "BOELTER",
+        "number": "02760"
+    },
+    {
+        "room": "BOELTER",
+        "number": "02808"
+    },
+    {
+        "room": "BOELTER",
+        "number": "03400"
+    },
+    {
+        "room": "BOELTER",
+        "number": "03424"
+    },
+    {
+        "room": "BOELTER",
+        "number": "03428"
+    },
+    {
+        "room": "BOELTER",
+        "number": "03436"
+    },
+    {
+        "room": "BOELTER",
+        "number": "03440"
+    },
+    {
+        "room": "BOELTER",
+        "number": "03551"
+    },
+    {
+        "room": "BOELTER",
+        "number": "03564"
+    },
+    {
+        "room": "BOELTER",
+        "number": "03704"
+    },
+    {
+        "room": "BOELTER",
+        "number": "03760"
+    },
+    {
+        "room": "BOELTER",
+        "number": "03770"
+    },
+    {
+        "room": "BOELTER",
+        "number": "04275"
+    },
+    {
+        "room": "BOELTER",
+        "number": "04283"
+    },
+    {
+        "room": "BOELTER",
+        "number": "04404"
+    },
+    {
+        "room": "BOELTER",
+        "number": "04413"
+    },
+    {
+        "room": "BOELTER",
+        "number": "04760"
+    },
+    {
+        "room": "BOELTER",
+        "number": "05249"
+    },
+    {
+        "room": "BOELTER",
+        "number": "05252"
+    },
+    {
+        "room": "BOELTER",
+        "number": "05264"
+    },
+    {
+        "room": "BOELTER",
+        "number": "05272"
+    },
+    {
+        "room": "BOELTER",
+        "number": "05273"
+    },
+    {
+        "room": "BOELTER",
+        "number": "05280"
+    },
+    {
+        "room": "BOELTER",
+        "number": "05419"
+    },
+    {
+        "room": "BOELTER",
+        "number": "05420"
+    },
+    {
+        "room": "BOELTER",
+        "number": "05422"
+    },
+    {
+        "room": "BOELTER",
+        "number": "05436"
+    },
+    {
+        "room": "BOELTER",
+        "number": "05440"
+    },
+    {
+        "room": "BOELTER",
+        "number": "05513"
+    },
+    {
+        "room": "BOELTER",
+        "number": "05514"
+    },
+    {
+        "room": "BOELTER",
+        "number": "05714"
+    },
+    {
+        "room": "BOELTER",
+        "number": "05732K"
+    },
+    {
+        "room": "BOELTER",
+        "number": "06288"
+    },
+    {
+        "room": "BOELTER",
+        "number": "06541"
+    },
+    {
+        "room": "BOELTER",
+        "number": "06750"
+    },
+    {
+        "room": "BOELTER",
+        "number": "07702"
+    },
+    {
+        "room": "BOELTER",
+        "number": "07718"
+    },
+    {
+        "room": "BOELTER",
+        "number": "07730"
+    },
+    {
+        "room": "BOELTER",
+        "number": "07731"
+    },
+    {
+        "room": "BOELTER",
+        "number": "07732"
+    },
+    {
+        "room": "BOELTER",
+        "number": "07736"
+    },
+    {
+        "room": "BOELTER",
+        "number": "07737"
+    },
+    {
+        "room": "BOELTER",
+        "number": "07738"
+    },
+    {
+        "room": "BOELTER",
+        "number": "07745"
+    },
+    {
+        "room": "BOELTER",
+        "number": "07750"
+    },
+    {
+        "room": "BOELTER",
+        "number": "08251"
+    },
+    {
+        "room": "BOELTER",
+        "number": "08270"
+    },
+    {
+        "room": "BOELTER",
+        "number": "08436"
+    },
+    {
+        "room": "BOELTER",
+        "number": "08500"
+    },
+    {
+        "room": "BOELTER",
+        "number": "09413"
+    },
+    {
+        "room": "BOELTER",
+        "number": "09436"
+    },
+    {
+        "room": "BOTANY",
+        "number": "00107"
+    },
+    {
+        "room": "BOTANY",
+        "number": "00108"
+    },
+    {
+        "room": "BOTANY",
+        "number": "00109"
+    },
+    {
+        "room": "BOTANY",
+        "number": "00133"
+    },
+    {
+        "room": "BOTANY",
+        "number": "00220"
+    },
+    {
+        "room": "BOTANY",
+        "number": "00325"
+    },
+    {
+        "room": "BOTANY",
+        "number": "00328"
+    },
+    {
+        "room": "BOYER",
+        "number": "00130"
+    },
+    {
+        "room": "BOYER",
+        "number": "00159"
+    },
+    {
+        "room": "BOYER",
+        "number": "00244"
+    },
+    {
+        "room": "BOYER",
+        "number": "00344"
+    },
+    {
+        "room": "BOYER",
+        "number": "00444"
+    },
+    {
+        "room": "BOYER",
+        "number": "00529"
+    },
+    {
+        "room": "BOYER",
+        "number": "00644"
+    },
+    {
+        "room": "BRADLEY",
+        "number": "00224"
+    },
+    {
+        "room": "BRADLEY",
+        "number": "00300"
+    },
+    {
+        "room": "BRADLEY",
+        "number": "OH00470"
+    },
+    {
+        "room": "BROAD",
+        "number": "01131"
+    },
+    {
+        "room": "BROAD",
+        "number": "01145"
+    },
+    {
+        "room": "BROAD",
+        "number": "01250"
+    },
+    {
+        "room": "BROAD",
+        "number": "01256"
+    },
+    {
+        "room": "BROAD",
+        "number": "01275"
+    },
+    {
+        "room": "BROAD",
+        "number": "02100A"
+    },
+    {
+        "room": "BROAD",
+        "number": "02100B"
+    },
+    {
+        "room": "BROAD",
+        "number": "02101"
+    },
+    {
+        "room": "BROAD",
+        "number": "02122"
+    },
+    {
+        "room": "BROAD",
+        "number": "02135"
+    },
+    {
+        "room": "BROAD",
+        "number": "02160E"
+    },
+    {
+        "room": "BROAD",
+        "number": "02250"
+    },
+    {
+        "room": "BROAD",
+        "number": "03246"
+    },
+    {
+        "room": "BROAD",
+        "number": "03261"
+    },
+    {
+        "room": "BROAD",
+        "number": "04220"
+    },
+    {
+        "room": "BROAD",
+        "number": "04230"
+    },
+    {
+        "room": "BROAD",
+        "number": "04240"
+    },
+    {
+        "room": "BROAD",
+        "number": "04250"
+    },
+    {
+        "room": "BROAD",
+        "number": "04258"
+    },
+    {
+        "room": "BROAD",
+        "number": "06220"
+    },
+    {
+        "room": "BROAD",
+        "number": "06230"
+    },
+    {
+        "room": "BROAD",
+        "number": "06250"
+    },
+    {
+        "room": "BROAD",
+        "number": "06260"
+    },
+    {
+        "room": "BROAD",
+        "number": "07230"
+    },
+    {
+        "room": "BROAD",
+        "number": "07240"
+    },
+    {
+        "room": "BROAD",
+        "number": "07250"
+    },
+    {
+        "room": "BROAD",
+        "number": "07260"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "01209B"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "01221A"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "01221B"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "01221D"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "01261"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "01265"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "02121"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "02150"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "02156"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "02160"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "02168"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "02173"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "02174"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "02178"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "02181"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "02209A"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "02221E"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "02249"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "03117"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "03123"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "03143"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "03150"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "03153"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "03156"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "03157"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "03164"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "03170"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "03178"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "03211"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "03357"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "04276"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "04280"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "04289A"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "04357"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "05288"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "05391"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "06250"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "06258"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "06265"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "06275"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "06299"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "06339"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "06345"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "07386"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "08242"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "09294"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "09383"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "10383"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "11372"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "A00152"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "A00162"
+    },
+    {
+        "room": "BUNCHE",
+        "number": "A00163"
+    },
+    {
+        "room": "CAMPBEL",
+        "number": "01224"
+    },
+    {
+        "room": "CAMPBEL",
+        "number": "02101K"
+    },
+    {
+        "room": "CAMPBEL",
+        "number": "02122A"
+    },
+    {
+        "room": "CAMPBEL",
+        "number": "02122B"
+    },
+    {
+        "room": "CAMPBEL",
+        "number": "02210D"
+    },
+    {
+        "room": "CAMPBEL",
+        "number": "02210F"
+    },
+    {
+        "room": "CAMPBEL",
+        "number": "03103D"
+    },
+    {
+        "room": "CAMPBEL",
+        "number": "03221"
+    },
+    {
+        "room": "CAMPBEL",
+        "number": "03232"
+    },
+    {
+        "room": "CARNESL",
+        "number": "00212A"
+    },
+    {
+        "room": "CARNESL",
+        "number": "00218"
+    },
+    {
+        "room": "CARNESL",
+        "number": "SP00206"
+    },
+    {
+        "room": "CLARK",
+        "number": "B00010"
+    },
+    {
+        "room": "CNSI",
+        "number": "00146"
+    },
+    {
+        "room": "CNSI",
+        "number": "05200"
+    },
+    {
+        "room": "CNYN PT",
+        "number": "F00401"
+    },
+    {
+        "room": "COLLINS",
+        "number": "A00201"
+    },
+    {
+        "room": "COLLINS",
+        "number": "A00301"
+    },
+    {
+        "room": "COLLINS",
+        "number": "A00416"
+    },
+    {
+        "room": "CORNELL",
+        "number": "D00301"
+    },
+    {
+        "room": "CORNELL",
+        "number": "D00303"
+    },
+    {
+        "room": "CORNELL",
+        "number": "D00307"
+    },
+    {
+        "room": "CORNELL",
+        "number": "D00310"
+    },
+    {
+        "room": "CORNELL",
+        "number": "D00311"
+    },
+    {
+        "room": "CORNELL",
+        "number": "D00312"
+    },
+    {
+        "room": "CORNELL",
+        "number": "D00313"
+    },
+    {
+        "room": "CORNELL",
+        "number": "D00414"
+    },
+    {
+        "room": "COVEL",
+        "number": "00210"
+    },
+    {
+        "room": "COVEL",
+        "number": "00218"
+    },
+    {
+        "room": "COVEL",
+        "number": "00225"
+    },
+    {
+        "room": "COVEL",
+        "number": "00229"
+    },
+    {
+        "room": "DE NEVE",
+        "number": "P00115"
+    },
+    {
+        "room": "DE NEVE",
+        "number": "P00154"
+    },
+    {
+        "room": "DE NEVE",
+        "number": "P00215K"
+    },
+    {
+        "room": "DE NEVE",
+        "number": "P00345"
+    },
+    {
+        "room": "DE NEVE",
+        "number": "P00349"
+    },
+    {
+        "room": "DE NEVE",
+        "number": "P00350"
+    },
+    {
+        "room": "DE NEVE",
+        "number": "P00353B"
+    },
+    {
+        "room": "DENT",
+        "number": "13041"
+    },
+    {
+        "room": "DENT",
+        "number": "23029"
+    },
+    {
+        "room": "DENT",
+        "number": "A03011"
+    },
+    {
+        "room": "DENT",
+        "number": "A03029"
+    },
+    {
+        "room": "DENT",
+        "number": "A03089"
+    },
+    {
+        "room": "DENT",
+        "number": "B00148"
+    },
+    {
+        "room": "DENT",
+        "number": "B03020"
+    },
+    {
+        "room": "DODD",
+        "number": "00052"
+    },
+    {
+        "room": "DODD",
+        "number": "00067"
+    },
+    {
+        "room": "DODD",
+        "number": "00078"
+    },
+    {
+        "room": "DODD",
+        "number": "00121"
+    },
+    {
+        "room": "DODD",
+        "number": "00146"
+    },
+    {
+        "room": "DODD",
+        "number": "00147"
+    },
+    {
+        "room": "DODD",
+        "number": "00154"
+    },
+    {
+        "room": "DODD",
+        "number": "00161"
+    },
+    {
+        "room": "DODD",
+        "number": "00162"
+    },
+    {
+        "room": "DODD",
+        "number": "00167"
+    },
+    {
+        "room": "DODD",
+        "number": "00170"
+    },
+    {
+        "room": "DODD",
+        "number": "00175"
+    },
+    {
+        "room": "DODD",
+        "number": "00178"
+    },
+    {
+        "room": "DODD",
+        "number": "00200C"
+    },
+    {
+        "room": "DODD",
+        "number": "00220"
+    },
+    {
+        "room": "DODD",
+        "number": "00232"
+    },
+    {
+        "room": "DODD",
+        "number": "00247"
+    },
+    {
+        "room": "DODD",
+        "number": "00248"
+    },
+    {
+        "room": "DODD",
+        "number": "00275"
+    },
+    {
+        "room": "DODD",
+        "number": "00325"
+    },
+    {
+        "room": "DODD",
+        "number": "00374"
+    },
+    {
+        "room": "DODD",
+        "number": "00399"
+    },
+    {
+        "room": "E MLNTZ",
+        "number": "00302E"
+    },
+    {
+        "room": "E MLNTZ",
+        "number": "00314B"
+    },
+    {
+        "room": "ENGR IV",
+        "number": "14118"
+    },
+    {
+        "room": "ENGR IV",
+        "number": "14131B"
+    },
+    {
+        "room": "ENGR IV",
+        "number": "15139"
+    },
+    {
+        "room": "ENGR IV",
+        "number": "18132"
+    },
+    {
+        "room": "ENGR IV",
+        "number": "18132J"
+    },
+    {
+        "room": "ENGR IV",
+        "number": "33128"
+    },
+    {
+        "room": "ENGR IV",
+        "number": "37124"
+    },
+    {
+        "room": "ENGR IV",
+        "number": "38138"
+    },
+    {
+        "room": "ENGR IV",
+        "number": "38138A"
+    },
+    {
+        "room": "ENGR IV",
+        "number": "43116"
+    },
+    {
+        "room": "ENGR IV",
+        "number": "44110"
+    },
+    {
+        "room": "ENGR IV",
+        "number": "47124"
+    },
+    {
+        "room": "ENGR IV",
+        "number": "48121"
+    },
+    {
+        "room": "ENGR IV",
+        "number": "53125"
+    },
+    {
+        "room": "ENGR IV",
+        "number": "53133"
+    },
+    {
+        "room": "ENGR IV",
+        "number": "54134"
+    },
+    {
+        "room": "ENGR IV",
+        "number": "63134"
+    },
+    {
+        "room": "ENGR IV",
+        "number": "64132"
+    },
+    {
+        "room": "ENGR V",
+        "number": "01010"
+    },
+    {
+        "room": "ENGR V",
+        "number": "01230"
+    },
+    {
+        "room": "ENGR V",
+        "number": "02101"
+    },
+    {
+        "room": "ENGR V",
+        "number": "03129"
+    },
+    {
+        "room": "ENGR V",
+        "number": "04101"
+    },
+    {
+        "room": "ENGR V",
+        "number": "05101"
+    },
+    {
+        "room": "ENGR VI",
+        "number": "00134"
+    },
+    {
+        "room": "ENGR VI",
+        "number": "00134A"
+    },
+    {
+        "room": "ENGR VI",
+        "number": "00134B"
+    },
+    {
+        "room": "ENGR VI",
+        "number": "ML00000C"
+    },
+    {
+        "room": "ENTRPNR",
+        "number": "C00301"
+    },
+    {
+        "room": "ENTRPNR",
+        "number": "C00303"
+    },
+    {
+        "room": "ENTRPNR",
+        "number": "C00314"
+    },
+    {
+        "room": "ENTRPNR",
+        "number": "C00315"
+    },
+    {
+        "room": "FAC CTR",
+        "number": "00000SE"
+    },
+    {
+        "room": "FACTOR",
+        "number": "02539"
+    },
+    {
+        "room": "FACTOR",
+        "number": "02648"
+    },
+    {
+        "room": "FACTOR",
+        "number": "03148"
+    },
+    {
+        "room": "FACTOR",
+        "number": "03250"
+    },
+    {
+        "room": "FACTOR",
+        "number": "03637"
+    },
+    {
+        "room": "FACTOR",
+        "number": "03648"
+    },
+    {
+        "room": "FACTOR",
+        "number": "04145"
+    },
+    {
+        "room": "FACTOR",
+        "number": "04147A"
+    },
+    {
+        "room": "FACTOR",
+        "number": "04650"
+    },
+    {
+        "room": "FACTOR",
+        "number": "04662"
+    },
+    {
+        "room": "FACTOR",
+        "number": "05150"
+    },
+    {
+        "room": "FACTOR",
+        "number": "05235"
+    },
+    {
+        "room": "FACTOR",
+        "number": "05242"
+    },
+    {
+        "room": "FACTOR",
+        "number": "05255"
+    },
+    {
+        "room": "FACTOR",
+        "number": "05636"
+    },
+    {
+        "room": "FACTOR",
+        "number": "05638"
+    },
+    {
+        "room": "FACTOR",
+        "number": "05642"
+    },
+    {
+        "room": "FACTOR",
+        "number": "A00660A"
+    },
+    {
+        "room": "FERNALD",
+        "number": "00100"
+    },
+    {
+        "room": "FOWLER",
+        "number": "00000DR"
+    },
+    {
+        "room": "FOWLER",
+        "number": "02329A"
+    },
+    {
+        "room": "FOWLER",
+        "number": "02450"
+    },
+    {
+        "room": "FOWLER",
+        "number": "A00103B"
+    },
+    {
+        "room": "FOWLER",
+        "number": "A00139"
+    },
+    {
+        "room": "FOWLER",
+        "number": "A00163"
+    },
+    {
+        "room": "FOWLER",
+        "number": "A00222"
+    },
+    {
+        "room": "FOWLER",
+        "number": "A00312"
+    },
+    {
+        "room": "FOWLER",
+        "number": "A00322"
+    },
+    {
+        "room": "FOWLER",
+        "number": "A00419"
+    },
+    {
+        "room": "FRANZ",
+        "number": "01178"
+    },
+    {
+        "room": "FRANZ",
+        "number": "01229"
+    },
+    {
+        "room": "FRANZ",
+        "number": "01260"
+    },
+    {
+        "room": "FRANZ",
+        "number": "01354"
+    },
+    {
+        "room": "FRANZ",
+        "number": "01543"
+    },
+    {
+        "room": "FRANZ",
+        "number": "01571"
+    },
+    {
+        "room": "FRANZ",
+        "number": "02180"
+    },
+    {
+        "room": "FRANZ",
+        "number": "02220"
+    },
+    {
+        "room": "FRANZ",
+        "number": "02221"
+    },
+    {
+        "room": "FRANZ",
+        "number": "02227"
+    },
+    {
+        "room": "FRANZ",
+        "number": "02232"
+    },
+    {
+        "room": "FRANZ",
+        "number": "02258A"
+    },
+    {
+        "room": "FRANZ",
+        "number": "02268"
+    },
+    {
+        "room": "FRANZ",
+        "number": "02288"
+    },
+    {
+        "room": "FRANZ",
+        "number": "02322"
+    },
+    {
+        "room": "FRANZ",
+        "number": "02329"
+    },
+    {
+        "room": "FRANZ",
+        "number": "02434"
+    },
+    {
+        "room": "FRANZ",
+        "number": "02527"
+    },
+    {
+        "room": "FRANZ",
+        "number": "02567E"
+    },
+    {
+        "room": "FRANZ",
+        "number": "03165"
+    },
+    {
+        "room": "FRANZ",
+        "number": "03183"
+    },
+    {
+        "room": "FRANZ",
+        "number": "03221"
+    },
+    {
+        "room": "FRANZ",
+        "number": "03243"
+    },
+    {
+        "room": "FRANZ",
+        "number": "03257"
+    },
+    {
+        "room": "FRANZ",
+        "number": "03258"
+    },
+    {
+        "room": "FRANZ",
+        "number": "03265"
+    },
+    {
+        "room": "FRANZ",
+        "number": "03290"
+    },
+    {
+        "room": "FRANZ",
+        "number": "03291"
+    },
+    {
+        "room": "FRANZ",
+        "number": "03312"
+    },
+    {
+        "room": "FRANZ",
+        "number": "03316"
+    },
+    {
+        "room": "FRANZ",
+        "number": "03351"
+    },
+    {
+        "room": "FRANZ",
+        "number": "03423"
+    },
+    {
+        "room": "FRANZ",
+        "number": "03435"
+    },
+    {
+        "room": "FRANZ",
+        "number": "03534"
+    },
+    {
+        "room": "FRANZ",
+        "number": "03538H"
+    },
+    {
+        "room": "FRANZ",
+        "number": "03587"
+    },
+    {
+        "room": "FRANZ",
+        "number": "03621C"
+    },
+    {
+        "room": "FRANZ",
+        "number": "04427"
+    },
+    {
+        "room": "FRANZ",
+        "number": "04441B"
+    },
+    {
+        "room": "FRANZ",
+        "number": "04537"
+    },
+    {
+        "room": "FRANZ",
+        "number": "04574"
+    },
+    {
+        "room": "FRANZ",
+        "number": "05454"
+    },
+    {
+        "room": "FRANZ",
+        "number": "05461"
+    },
+    {
+        "room": "FRANZ",
+        "number": "05532B"
+    },
+    {
+        "room": "FRANZ",
+        "number": "06423"
+    },
+    {
+        "room": "FRANZ",
+        "number": "06461"
+    },
+    {
+        "room": "FRANZ",
+        "number": "06550"
+    },
+    {
+        "room": "FRANZ",
+        "number": "07425"
+    },
+    {
+        "room": "FRANZ",
+        "number": "07437"
+    },
+    {
+        "room": "FRANZ",
+        "number": "07531"
+    },
+    {
+        "room": "FRANZ",
+        "number": "07626"
+    },
+    {
+        "room": "FRANZ",
+        "number": "08461C"
+    },
+    {
+        "room": "FRANZ",
+        "number": "08581"
+    },
+    {
+        "room": "FRANZ",
+        "number": "A00191B"
+    },
+    {
+        "room": "FRANZ",
+        "number": "A00225"
+    },
+    {
+        "room": "FRANZ",
+        "number": "A00258"
+    },
+    {
+        "room": "FRANZ",
+        "number": "A00258A"
+    },
+    {
+        "room": "FRANZ",
+        "number": "A00279"
+    },
+    {
+        "room": "FRANZ",
+        "number": "A00347"
+    },
+    {
+        "room": "FRANZ",
+        "number": "A00456"
+    },
+    {
+        "room": "FRANZ",
+        "number": "A00461"
+    },
+    {
+        "room": "FRANZ",
+        "number": "A00613"
+    },
+    {
+        "room": "FRANZ",
+        "number": "A01283"
+    },
+    {
+        "room": "FRANZ",
+        "number": "B00439"
+    },
+    {
+        "room": "FRANZ",
+        "number": "C00451"
+    },
+    {
+        "room": "FRANZ",
+        "number": "C00533"
+    },
+    {
+        "room": "GEFFENHL",
+        "number": "00150"
+    },
+    {
+        "room": "GEFFENHL",
+        "number": "00207"
+    },
+    {
+        "room": "GEFFENHL",
+        "number": "B00013"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "01707"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "03614"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "03645"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "03656"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "03657"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "03814"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "03820"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "04641"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "04645"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "04653"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "04660"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "04677"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "04680"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "04691"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "05638"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "05644"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "05655"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "05681"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "06704"
+    },
+    {
+        "room": "GEOLOGY",
+        "number": "B00707"
+    },
+    {
+        "room": "GOLD",
+        "number": "B00117"
+    },
+    {
+        "room": "GOLD",
+        "number": "B00208X"
+    },
+    {
+        "room": "GOLD",
+        "number": "B00301"
+    },
+    {
+        "room": "GOLD",
+        "number": "B00308"
+    },
+    {
+        "room": "GOLD",
+        "number": "B00312"
+    },
+    {
+        "room": "GOLD",
+        "number": "B00313"
+    },
+    {
+        "room": "GOLD",
+        "number": "B00413"
+    },
+    {
+        "room": "GONDA",
+        "number": "01357"
+    },
+    {
+        "room": "GONDA",
+        "number": "02303"
+    },
+    {
+        "room": "GONDA",
+        "number": "03303"
+    },
+    {
+        "room": "GONDA",
+        "number": "04303"
+    },
+    {
+        "room": "GONDA",
+        "number": "05303"
+    },
+    {
+        "room": "GONDA",
+        "number": "06303"
+    },
+    {
+        "room": "GSEIS",
+        "number": "00102"
+    },
+    {
+        "room": "GSEIS",
+        "number": "00111"
+    },
+    {
+        "room": "GSEIS",
+        "number": "00118"
+    },
+    {
+        "room": "GSEIS",
+        "number": "00121"
+    },
+    {
+        "room": "GSEIS",
+        "number": "00202"
+    },
+    {
+        "room": "GSEIS",
+        "number": "00228"
+    },
+    {
+        "room": "GSEIS",
+        "number": "00245"
+    },
+    {
+        "room": "HAINES",
+        "number": "00039"
+    },
+    {
+        "room": "HAINES",
+        "number": "00102"
+    },
+    {
+        "room": "HAINES",
+        "number": "00110"
+    },
+    {
+        "room": "HAINES",
+        "number": "00118"
+    },
+    {
+        "room": "HAINES",
+        "number": "00122"
+    },
+    {
+        "room": "HAINES",
+        "number": "00153"
+    },
+    {
+        "room": "HAINES",
+        "number": "00179"
+    },
+    {
+        "room": "HAINES",
+        "number": "00215"
+    },
+    {
+        "room": "HAINES",
+        "number": "00220"
+    },
+    {
+        "room": "HAINES",
+        "number": "00279"
+    },
+    {
+        "room": "HAINES",
+        "number": "00310"
+    },
+    {
+        "room": "HAINES",
+        "number": "00314"
+    },
+    {
+        "room": "HAINES",
+        "number": "00332"
+    },
+    {
+        "room": "HAINES",
+        "number": "00350"
+    },
+    {
+        "room": "HAINES",
+        "number": "00352"
+    },
+    {
+        "room": "HAINES",
+        "number": "A00002"
+    },
+    {
+        "room": "HAINES",
+        "number": "A00006"
+    },
+    {
+        "room": "HAINES",
+        "number": "A00018"
+    },
+    {
+        "room": "HAINES",
+        "number": "A00020"
+    },
+    {
+        "room": "HAINES",
+        "number": "A00024"
+    },
+    {
+        "room": "HAINES",
+        "number": "A00025"
+    },
+    {
+        "room": "HAINES",
+        "number": "A00028"
+    },
+    {
+        "room": "HAINES",
+        "number": "A00033"
+    },
+    {
+        "room": "HAINES",
+        "number": "A00037"
+    },
+    {
+        "room": "HAINES",
+        "number": "A00044"
+    },
+    {
+        "room": "HAINES",
+        "number": "A00074"
+    },
+    {
+        "room": "HAINES",
+        "number": "A00076"
+    },
+    {
+        "room": "HAINES",
+        "number": "A00078"
+    },
+    {
+        "room": "HAINES",
+        "number": "A00082"
+    },
+    {
+        "room": "HEDRICK",
+        "number": "00115"
+    },
+    {
+        "room": "HEDRICK",
+        "number": "00134"
+    },
+    {
+        "room": "HERSHEY",
+        "number": "00148"
+    },
+    {
+        "room": "HERSHEY",
+        "number": "00150"
+    },
+    {
+        "room": "HERSHEY",
+        "number": "00158"
+    },
+    {
+        "room": "HERSHEY",
+        "number": "00164"
+    },
+    {
+        "room": "HERSHEY",
+        "number": "00168"
+    },
+    {
+        "room": "HITCH",
+        "number": "00100"
+    },
+    {
+        "room": "HITCH",
+        "number": "A00011"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "12077D"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "12077X"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "13105A"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "13265"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "14214U"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "16145"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "16154"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "17187"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "17242B"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "17256"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "17323"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "17364"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "22096"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "23105A"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "24132"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "33105A"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "33245"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "43105A"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "51279"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "52087"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "53105A"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "63105A"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "63127"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "63214"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "72181"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "73105A"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "73167A"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "73235"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "73240"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "A02125"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "A02342"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "B02161"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "B08225"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "BH00173"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "BL00420"
+    },
+    {
+        "room": "HLTHSCI",
+        "number": "IP00151"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "00109"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "00135"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "00136"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "00169"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "00222B"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "00305"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "00307"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "00311"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "00348"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "00367"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "00370"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "00372"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "00376C"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "00380"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "A00026"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "A00030"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "A00032"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "A00040"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "A00046"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "A00048"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "A00051"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "A00056"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "A00060"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "A00065"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "A00066"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "A00068"
+    },
+    {
+        "room": "HUMANTS",
+        "number": "A00082"
+    },
+    {
+        "room": "JSEI",
+        "number": "00000AU"
+    },
+    {
+        "room": "JWEST",
+        "number": "00000FR"
+    },
+    {
+        "room": "JWEST",
+        "number": "00000GP"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "00109"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "00126A"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "00135"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "00169"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "00222B"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "00304"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "00305"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "00307"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "00311"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "00318"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "00348"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "00350"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "00365"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "00367"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "00372"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "00398"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "A00006"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "A00026"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "A00030"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "A00032"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "A00040"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "A00046"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "A00048"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "A00051"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "A00056"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "A00060"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "A00065"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "A00066"
+    },
+    {
+        "room": "KAPLAN",
+        "number": "A00068"
+    },
+    {
+        "room": "KAUFMAN",
+        "number": "00101"
+    },
+    {
+        "room": "KAUFMAN",
+        "number": "00136"
+    },
+    {
+        "room": "KAUFMAN",
+        "number": "00145"
+    },
+    {
+        "room": "KAUFMAN",
+        "number": "00153"
+    },
+    {
+        "room": "KAUFMAN",
+        "number": "00160"
+    },
+    {
+        "room": "KAUFMAN",
+        "number": "00180"
+    },
+    {
+        "room": "KAUFMAN",
+        "number": "00200"
+    },
+    {
+        "room": "KAUFMAN",
+        "number": "00208"
+    },
+    {
+        "room": "KAUFMAN",
+        "number": "00214"
+    },
+    {
+        "room": "KAUFMAN",
+        "number": "00230"
+    },
+    {
+        "room": "KAUFMAN",
+        "number": "00240"
+    },
+    {
+        "room": "KAUFMAN",
+        "number": "00250"
+    },
+    {
+        "room": "KAUFMAN",
+        "number": "01000"
+    },
+    {
+        "room": "KNSY PV",
+        "number": "01200B"
+    },
+    {
+        "room": "KNSY PV",
+        "number": "01220B"
+    },
+    {
+        "room": "KNSY PV",
+        "number": "01240B"
+    },
+    {
+        "room": "KNUDSEN",
+        "number": "01116"
+    },
+    {
+        "room": "KNUDSEN",
+        "number": "01134"
+    },
+    {
+        "room": "KNUDSEN",
+        "number": "01152"
+    },
+    {
+        "room": "KNUDSEN",
+        "number": "01210"
+    },
+    {
+        "room": "KNUDSEN",
+        "number": "01238"
+    },
+    {
+        "room": "KNUDSEN",
+        "number": "02115"
+    },
+    {
+        "room": "KNUDSEN",
+        "number": "02122"
+    },
+    {
+        "room": "KNUDSEN",
+        "number": "02136"
+    },
+    {
+        "room": "KNUDSEN",
+        "number": "03145L"
+    },
+    {
+        "room": "KNUDSEN",
+        "number": "03171"
+    },
+    {
+        "room": "KNUDSEN",
+        "number": "04134"
+    },
+    {
+        "room": "KNUDSEN",
+        "number": "04173"
+    },
+    {
+        "room": "KNUDSEN",
+        "number": "06107"
+    },
+    {
+        "room": "KNUDSEN",
+        "number": "06129"
+    },
+    {
+        "room": "KNUDSEN",
+        "number": "A00137"
+    },
+    {
+        "room": "KNUDSEN",
+        "number": "A00146"
+    },
+    {
+        "room": "KORN",
+        "number": "C00314"
+    },
+    {
+        "room": "LAKRETZ",
+        "number": "00100"
+    },
+    {
+        "room": "LAKRETZ",
+        "number": "00101"
+    },
+    {
+        "room": "LAKRETZ",
+        "number": "00110"
+    },
+    {
+        "room": "LAKRETZ",
+        "number": "00120"
+    },
+    {
+        "room": "LAKRETZ",
+        "number": "00300A"
+    },
+    {
+        "room": "LAW",
+        "number": "01102"
+    },
+    {
+        "room": "LAW",
+        "number": "01310"
+    },
+    {
+        "room": "LAW",
+        "number": "01314"
+    },
+    {
+        "room": "LAW",
+        "number": "01327"
+    },
+    {
+        "room": "LAW",
+        "number": "01337"
+    },
+    {
+        "room": "LAW",
+        "number": "01347"
+    },
+    {
+        "room": "LAW",
+        "number": "01357"
+    },
+    {
+        "room": "LAW",
+        "number": "01420"
+    },
+    {
+        "room": "LAW",
+        "number": "01430"
+    },
+    {
+        "room": "LAW",
+        "number": "01447"
+    },
+    {
+        "room": "LAW",
+        "number": "01457"
+    },
+    {
+        "room": "LAW",
+        "number": "02326"
+    },
+    {
+        "room": "LAW",
+        "number": "02357"
+    },
+    {
+        "room": "LAW",
+        "number": "02442"
+    },
+    {
+        "room": "LAW",
+        "number": "02448"
+    },
+    {
+        "room": "LAW",
+        "number": "02467"
+    },
+    {
+        "room": "LAW",
+        "number": "02473"
+    },
+    {
+        "room": "LAW",
+        "number": "02476"
+    },
+    {
+        "room": "LAW",
+        "number": "02477"
+    },
+    {
+        "room": "LAW",
+        "number": "02480"
+    },
+    {
+        "room": "LAW",
+        "number": "02483"
+    },
+    {
+        "room": "LAW",
+        "number": "02484"
+    },
+    {
+        "room": "LAW",
+        "number": "03211A"
+    },
+    {
+        "room": "LAW",
+        "number": "03393"
+    },
+    {
+        "room": "LAW",
+        "number": "03467"
+    },
+    {
+        "room": "LAW",
+        "number": "03473"
+    },
+    {
+        "room": "LAW",
+        "number": "03483"
+    },
+    {
+        "room": "LAW",
+        "number": "03484"
+    },
+    {
+        "room": "LAW",
+        "number": "A00122"
+    },
+    {
+        "room": "LKGP",
+        "number": "00100"
+    },
+    {
+        "room": "LKGP",
+        "number": "00101"
+    },
+    {
+        "room": "LS",
+        "number": "01113"
+    },
+    {
+        "room": "LS",
+        "number": "01123"
+    },
+    {
+        "room": "LS",
+        "number": "01230"
+    },
+    {
+        "room": "LS",
+        "number": "01315"
+    },
+    {
+        "room": "LS",
+        "number": "01362"
+    },
+    {
+        "room": "LS",
+        "number": "02127"
+    },
+    {
+        "room": "LS",
+        "number": "02226"
+    },
+    {
+        "room": "LS",
+        "number": "02306"
+    },
+    {
+        "room": "LS",
+        "number": "02320"
+    },
+    {
+        "room": "LS",
+        "number": "02325"
+    },
+    {
+        "room": "LS",
+        "number": "02328"
+    },
+    {
+        "room": "LS",
+        "number": "02335"
+    },
+    {
+        "room": "LS",
+        "number": "02365"
+    },
+    {
+        "room": "LS",
+        "number": "02822"
+    },
+    {
+        "room": "LS",
+        "number": "03309"
+    },
+    {
+        "room": "LS",
+        "number": "03314"
+    },
+    {
+        "room": "LS",
+        "number": "03324"
+    },
+    {
+        "room": "LS",
+        "number": "03326"
+    },
+    {
+        "room": "LS",
+        "number": "03836"
+    },
+    {
+        "room": "LS",
+        "number": "04127"
+    },
+    {
+        "room": "LS",
+        "number": "05229"
+    },
+    {
+        "room": "LS",
+        "number": "05236"
+    },
+    {
+        "room": "LS",
+        "number": "05309"
+    },
+    {
+        "room": "LS",
+        "number": "05312"
+    },
+    {
+        "room": "LS",
+        "number": "05323"
+    },
+    {
+        "room": "LS",
+        "number": "05328"
+    },
+    {
+        "room": "LS",
+        "number": "05818"
+    },
+    {
+        "room": "LS",
+        "number": "05826"
+    },
+    {
+        "room": "LS",
+        "number": "05908"
+    },
+    {
+        "room": "LS",
+        "number": "05926"
+    },
+    {
+        "room": "LS",
+        "number": "05929"
+    },
+    {
+        "room": "LS",
+        "number": "A00830"
+    },
+    {
+        "room": "MACDNLD",
+        "number": "01441"
+    },
+    {
+        "room": "MACDNLD",
+        "number": "02740"
+    },
+    {
+        "room": "MACDNLD",
+        "number": "03248"
+    },
+    {
+        "room": "MACGOWN",
+        "number": "01154"
+    },
+    {
+        "room": "MACGOWN",
+        "number": "01165"
+    },
+    {
+        "room": "MACGOWN",
+        "number": "01200B"
+    },
+    {
+        "room": "MACGOWN",
+        "number": "01220"
+    },
+    {
+        "room": "MACGOWN",
+        "number": "01330"
+    },
+    {
+        "room": "MACGOWN",
+        "number": "01340"
+    },
+    {
+        "room": "MACGOWN",
+        "number": "01350"
+    },
+    {
+        "room": "MACGOWN",
+        "number": "02203"
+    },
+    {
+        "room": "MACGOWN",
+        "number": "02204B"
+    },
+    {
+        "room": "MACGOWN",
+        "number": "02217"
+    },
+    {
+        "room": "MACGOWN",
+        "number": "02310B"
+    },
+    {
+        "room": "MACGOWN",
+        "number": "02310C"
+    },
+    {
+        "room": "MACGOWN",
+        "number": "02330"
+    },
+    {
+        "room": "MACGOWN",
+        "number": "02534"
+    },
+    {
+        "room": "MACGOWN",
+        "number": "03312"
+    },
+    {
+        "room": "MCGWN E",
+        "number": "00101"
+    },
+    {
+        "room": "MCGWN E",
+        "number": "00102"
+    },
+    {
+        "room": "MCGWN E",
+        "number": "00103"
+    },
+    {
+        "room": "MDCC",
+        "number": "12407"
+    },
+    {
+        "room": "MDCC",
+        "number": "A02342"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "01409"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "01410A"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "01422A"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "01439A"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "01441"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "01446A"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "01451B"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "01462A"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "01470"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "01473A"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "02410"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "02457"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "02471"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "02474"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "02479"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "02487"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "02534"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "02536"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "02544"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "02558"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "02568B"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "02585"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "02586B"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "02589"
+    },
+    {
+        "room": "MELNITZ",
+        "number": "A00405"
+    },
+    {
+        "room": "MNOUKIAN",
+        "number": "01208"
+    },
+    {
+        "room": "MOL SCI",
+        "number": "01434"
+    },
+    {
+        "room": "MOL SCI",
+        "number": "01601"
+    },
+    {
+        "room": "MOL SCI",
+        "number": "03440"
+    },
+    {
+        "room": "MOL SCI",
+        "number": "03515"
+    },
+    {
+        "room": "MOL SCI",
+        "number": "05241"
+    },
+    {
+        "room": "MOORE",
+        "number": "00100"
+    },
+    {
+        "room": "MOORE",
+        "number": "01003"
+    },
+    {
+        "room": "MOORE",
+        "number": "01041"
+    },
+    {
+        "room": "MOORE",
+        "number": "01048"
+    },
+    {
+        "room": "MOORE",
+        "number": "02011A"
+    },
+    {
+        "room": "MOORE",
+        "number": "02016"
+    },
+    {
+        "room": "MOORE",
+        "number": "02120"
+    },
+    {
+        "room": "MOORE",
+        "number": "02137"
+    },
+    {
+        "room": "MOORE",
+        "number": "02320"
+    },
+    {
+        "room": "MOORE",
+        "number": "03021"
+    },
+    {
+        "room": "MOORE",
+        "number": "03026"
+    },
+    {
+        "room": "MOORE",
+        "number": "03027"
+    },
+    {
+        "room": "MOORE",
+        "number": "03030"
+    },
+    {
+        "room": "MOORE",
+        "number": "03034"
+    },
+    {
+        "room": "MOORE",
+        "number": "03120"
+    },
+    {
+        "room": "MOORE",
+        "number": "03140"
+    },
+    {
+        "room": "MOORE",
+        "number": "03320"
+    },
+    {
+        "room": "MOORE",
+        "number": "03340"
+    },
+    {
+        "room": "MP 200",
+        "number": "B00265"
+    },
+    {
+        "room": "MP 300",
+        "number": "01208"
+    },
+    {
+        "room": "MP 300",
+        "number": "03200"
+    },
+    {
+        "room": "MP 300",
+        "number": "B00500"
+    },
+    {
+        "room": "MS",
+        "number": "01000B"
+    },
+    {
+        "room": "MS",
+        "number": "02000"
+    },
+    {
+        "room": "MS",
+        "number": "02915"
+    },
+    {
+        "room": "MS",
+        "number": "03915A"
+    },
+    {
+        "room": "MS",
+        "number": "03915D"
+    },
+    {
+        "room": "MS",
+        "number": "03915G"
+    },
+    {
+        "room": "MS",
+        "number": "03915H"
+    },
+    {
+        "room": "MS",
+        "number": "03974"
+    },
+    {
+        "room": "MS",
+        "number": "04000A"
+    },
+    {
+        "room": "MS",
+        "number": "04202"
+    },
+    {
+        "room": "MS",
+        "number": "05117"
+    },
+    {
+        "room": "MS",
+        "number": "05118"
+    },
+    {
+        "room": "MS",
+        "number": "05127"
+    },
+    {
+        "room": "MS",
+        "number": "05128"
+    },
+    {
+        "room": "MS",
+        "number": "05137"
+    },
+    {
+        "room": "MS",
+        "number": "05138"
+    },
+    {
+        "room": "MS",
+        "number": "05147"
+    },
+    {
+        "room": "MS",
+        "number": "05148"
+    },
+    {
+        "room": "MS",
+        "number": "05200"
+    },
+    {
+        "room": "MS",
+        "number": "05203"
+    },
+    {
+        "room": "MS",
+        "number": "05217"
+    },
+    {
+        "room": "MS",
+        "number": "05225"
+    },
+    {
+        "room": "MS",
+        "number": "05233"
+    },
+    {
+        "room": "MS",
+        "number": "05628"
+    },
+    {
+        "room": "MS",
+        "number": "06118"
+    },
+    {
+        "room": "MS",
+        "number": "06201"
+    },
+    {
+        "room": "MS",
+        "number": "06221"
+    },
+    {
+        "room": "MS",
+        "number": "06229"
+    },
+    {
+        "room": "MS",
+        "number": "06620"
+    },
+    {
+        "room": "MS",
+        "number": "06627"
+    },
+    {
+        "room": "MS",
+        "number": "06943"
+    },
+    {
+        "room": "MS",
+        "number": "07101"
+    },
+    {
+        "room": "MS",
+        "number": "07121"
+    },
+    {
+        "room": "MS",
+        "number": "07124"
+    },
+    {
+        "room": "MS",
+        "number": "07124A"
+    },
+    {
+        "room": "MS",
+        "number": "07124B"
+    },
+    {
+        "room": "MS",
+        "number": "07150"
+    },
+    {
+        "room": "MS",
+        "number": "07160"
+    },
+    {
+        "room": "MS",
+        "number": "07608"
+    },
+    {
+        "room": "MS",
+        "number": "08361"
+    },
+    {
+        "room": "MS",
+        "number": "08941"
+    },
+    {
+        "room": "MS",
+        "number": "08964"
+    },
+    {
+        "room": "MS",
+        "number": "08983"
+    },
+    {
+        "room": "MURPHY",
+        "number": "01215"
+    },
+    {
+        "room": "MURPHY",
+        "number": "02121"
+    },
+    {
+        "room": "MURPHY",
+        "number": "A00316"
+    },
+    {
+        "room": "MURPHY",
+        "number": "A00334"
+    },
+    {
+        "room": "NEUROSC",
+        "number": "00132"
+    },
+    {
+        "room": "NEUROSC",
+        "number": "00225X"
+    },
+    {
+        "room": "NEUROSC",
+        "number": "00368"
+    },
+    {
+        "room": "NEUROSC",
+        "number": "27200C"
+    },
+    {
+        "room": "NWAUD",
+        "number": "00101A"
+    },
+    {
+        "room": "OHRC",
+        "number": "00301"
+    },
+    {
+        "room": "OHRC",
+        "number": "00383"
+    },
+    {
+        "room": "OHRC",
+        "number": "00401"
+    },
+    {
+        "room": "OHRC",
+        "number": "00501"
+    },
+    {
+        "room": "OLYMPIC",
+        "number": "00470"
+    },
+    {
+        "room": "OLYMPIC",
+        "number": "00475"
+    },
+    {
+        "room": "ONLINE",
+        "number": "00000AS"
+    },
+    {
+        "room": "ONLINE",
+        "number": "00000LA"
+    },
+    {
+        "room": "ONLINE",
+        "number": "00000RE"
+    },
+    {
+        "room": "ONLINE",
+        "number": "IL00000TI"
+    },
+    {
+        "room": "OSTIN",
+        "number": "00110A"
+    },
+    {
+        "room": "OSTIN",
+        "number": "00165"
+    },
+    {
+        "room": "OSTIN",
+        "number": "B00105"
+    },
+    {
+        "room": "PAB",
+        "number": "01425"
+    },
+    {
+        "room": "PAB",
+        "number": "01434A"
+    },
+    {
+        "room": "PAB",
+        "number": "01749"
+    },
+    {
+        "room": "PAB",
+        "number": "02434"
+    },
+    {
+        "room": "PAB",
+        "number": "02748"
+    },
+    {
+        "room": "PAB",
+        "number": "03326"
+    },
+    {
+        "room": "PAB",
+        "number": "03703"
+    },
+    {
+        "room": "PAB",
+        "number": "03735"
+    },
+    {
+        "room": "PAB",
+        "number": "04330"
+    },
+    {
+        "room": "PAB",
+        "number": "04708"
+    },
+    {
+        "room": "PAB",
+        "number": "04740"
+    },
+    {
+        "room": "PERLOFF",
+        "number": "01102"
+    },
+    {
+        "room": "PERLOFF",
+        "number": "01118A"
+    },
+    {
+        "room": "PERLOFF",
+        "number": "01209B"
+    },
+    {
+        "room": "PERLOFF",
+        "number": "01220"
+    },
+    {
+        "room": "PERLOFF",
+        "number": "01224"
+    },
+    {
+        "room": "PERLOFF",
+        "number": "01243A"
+    },
+    {
+        "room": "PERLOFF",
+        "number": "01243B"
+    },
+    {
+        "room": "PERLOFF",
+        "number": "01243C"
+    },
+    {
+        "room": "PERLOFF",
+        "number": "01302A"
+    },
+    {
+        "room": "PERLOFF",
+        "number": "B00309"
+    },
+    {
+        "room": "PERLOFF",
+        "number": "B00320"
+    },
+    {
+        "room": "POWELL",
+        "number": "00186"
+    },
+    {
+        "room": "POWELL",
+        "number": "00228"
+    },
+    {
+        "room": "POWELL",
+        "number": "00238"
+    },
+    {
+        "room": "POWELL",
+        "number": "00270"
+    },
+    {
+        "room": "POWELL",
+        "number": "00285"
+    },
+    {
+        "room": "POWELL",
+        "number": "00307"
+    },
+    {
+        "room": "POWELL",
+        "number": "00320"
+    },
+    {
+        "room": "POWELL",
+        "number": "00320B"
+    },
+    {
+        "room": "POWELL",
+        "number": "00320C"
+    },
+    {
+        "room": "POWELL",
+        "number": "00330"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "01521"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "01531"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "02506"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "02531"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "02541"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "03509"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "03513"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "03517"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "03520"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "03535"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "03571"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "03572"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "03581"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "04513"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "04522"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "04567"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "05501"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "05505"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "05509"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "05513"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "05533"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "05567"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "06513"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "06546"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "07501"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "07513"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "07525"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "07567"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "08505"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "08509"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "08513"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "08581"
+    },
+    {
+        "room": "PRITZKER",
+        "number": "A00407B"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "01015A"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "01023"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "01040"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "01041"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "01222"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "01234"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "01246"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "01256"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "01264"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "01270"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "01278"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "01284"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "01323"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "01329"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "01337"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "01343"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "01400"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02035B"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02035H"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02214"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02232"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02238"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02242"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02250"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02270"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02278"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02284"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02292"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02317"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02319"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02325"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02333"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02343"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02355"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02400"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02400A"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "02500"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "03320A"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "03333"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "03343"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "04240"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "04240A"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "04317"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "04320A"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "04320B"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "04355"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "04357"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "04371"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "04375"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "05273"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "05344"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "05391"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "06223"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "06232"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "06274"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "06326"
+    },
+    {
+        "room": "PUB AFF",
+        "number": "06362"
+    },
+    {
+        "room": "PUB HLT",
+        "number": "21297"
+    },
+    {
+        "room": "PUB HLT",
+        "number": "31262"
+    },
+    {
+        "room": "PUB HLT",
+        "number": "36070A"
+    },
+    {
+        "room": "PUB HLT",
+        "number": "41235"
+    },
+    {
+        "room": "PUB HLT",
+        "number": "41268"
+    },
+    {
+        "room": "PUB HLT",
+        "number": "51279"
+    },
+    {
+        "room": "PUB HLT",
+        "number": "56059"
+    },
+    {
+        "room": "PUB HLT",
+        "number": "61235"
+    },
+    {
+        "room": "PUB HLT",
+        "number": "61262"
+    },
+    {
+        "room": "PUB HLT",
+        "number": "61269"
+    },
+    {
+        "room": "PUB HLT",
+        "number": "71257"
+    },
+    {
+        "room": "PUB HLT",
+        "number": "A01125"
+    },
+    {
+        "room": "PUB HLT",
+        "number": "A01241"
+    },
+    {
+        "room": "PUB HLT",
+        "number": "A01279"
+    },
+    {
+        "room": "PUB HLT",
+        "number": "A02125"
+    },
+    {
+        "room": "PVUB",
+        "number": "01400K"
+    },
+    {
+        "room": "PVUB",
+        "number": "02339B"
+    },
+    {
+        "room": "REED",
+        "number": "B00106"
+    },
+    {
+        "room": "REED",
+        "number": "C00128"
+    },
+    {
+        "room": "RIEBER",
+        "number": "00115A"
+    },
+    {
+        "room": "ROLFE",
+        "number": "01200"
+    },
+    {
+        "room": "ROLFE",
+        "number": "01301"
+    },
+    {
+        "room": "ROLFE",
+        "number": "02117"
+    },
+    {
+        "room": "ROLFE",
+        "number": "02118"
+    },
+    {
+        "room": "ROLFE",
+        "number": "02125"
+    },
+    {
+        "room": "ROLFE",
+        "number": "02201"
+    },
+    {
+        "room": "ROLFE",
+        "number": "02303"
+    },
+    {
+        "room": "ROLFE",
+        "number": "02310"
+    },
+    {
+        "room": "ROLFE",
+        "number": "02325"
+    },
+    {
+        "room": "ROLFE",
+        "number": "03105"
+    },
+    {
+        "room": "ROLFE",
+        "number": "03108"
+    },
+    {
+        "room": "ROLFE",
+        "number": "03115"
+    },
+    {
+        "room": "ROLFE",
+        "number": "03116"
+    },
+    {
+        "room": "ROLFE",
+        "number": "03120"
+    },
+    {
+        "room": "ROLFE",
+        "number": "03121"
+    },
+    {
+        "room": "ROLFE",
+        "number": "03126"
+    },
+    {
+        "room": "ROLFE",
+        "number": "03129"
+    },
+    {
+        "room": "ROLFE",
+        "number": "03134"
+    },
+    {
+        "room": "ROLFE",
+        "number": "03135"
+    },
+    {
+        "room": "ROLFE",
+        "number": "04302"
+    },
+    {
+        "room": "ROLFE",
+        "number": "04330"
+    },
+    {
+        "room": "ROSNFLD",
+        "number": "E00214"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00148"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00150"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00152"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00154"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00156"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00160"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00162"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00164"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00166"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00190"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00236"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00246B"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00268B"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00276B"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00280A"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00306"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00332"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00332C"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00334C"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00342"
+    },
+    {
+        "room": "ROYCE",
+        "number": "00362"
+    },
+    {
+        "room": "SAC",
+        "number": "00120P"
+    },
+    {
+        "room": "SAC",
+        "number": "00215"
+    },
+    {
+        "room": "SAC",
+        "number": "00304"
+    },
+    {
+        "room": "SAC",
+        "number": "B00001"
+    },
+    {
+        "room": "SAC",
+        "number": "B00002"
+    },
+    {
+        "room": "SAC",
+        "number": "B00003"
+    },
+    {
+        "room": "SAC",
+        "number": "B00005"
+    },
+    {
+        "room": "SAC",
+        "number": "B00020B"
+    },
+    {
+        "room": "SEMEL",
+        "number": "17364"
+    },
+    {
+        "room": "SEMEL",
+        "number": "17416"
+    },
+    {
+        "room": "SEMEL",
+        "number": "18250"
+    },
+    {
+        "room": "SEMEL",
+        "number": "27418"
+    },
+    {
+        "room": "SEMEL",
+        "number": "28181"
+    },
+    {
+        "room": "SEMEL",
+        "number": "28221"
+    },
+    {
+        "room": "SEMEL",
+        "number": "37413"
+    },
+    {
+        "room": "SEMEL",
+        "number": "37415"
+    },
+    {
+        "room": "SEMEL",
+        "number": "37417"
+    },
+    {
+        "room": "SEMEL",
+        "number": "67415"
+    },
+    {
+        "room": "SEMEL",
+        "number": "68238"
+    },
+    {
+        "room": "SEMEL",
+        "number": "78233"
+    },
+    {
+        "room": "SEMEL",
+        "number": "A08221"
+    },
+    {
+        "room": "SEMEL",
+        "number": "B08225"
+    },
+    {
+        "room": "SEMEL",
+        "number": "C08177"
+    },
+    {
+        "room": "SEMEL",
+        "number": "C08183H"
+    },
+    {
+        "room": "SEMEL",
+        "number": "C08639"
+    },
+    {
+        "room": "SLICHTR",
+        "number": "02834"
+    },
+    {
+        "room": "SLICHTR",
+        "number": "02870"
+    },
+    {
+        "room": "SLICHTR",
+        "number": "03853"
+    },
+    {
+        "room": "SLICHTR",
+        "number": "03871"
+    },
+    {
+        "room": "SMB",
+        "number": "01100"
+    },
+    {
+        "room": "SMB",
+        "number": "01102F"
+    },
+    {
+        "room": "SMB",
+        "number": "01102M"
+    },
+    {
+        "room": "SMB",
+        "number": "01200"
+    },
+    {
+        "room": "SMB",
+        "number": "01230"
+    },
+    {
+        "room": "SMB",
+        "number": "01325"
+    },
+    {
+        "room": "SMB",
+        "number": "01343"
+    },
+    {
+        "room": "SMB",
+        "number": "01344"
+    },
+    {
+        "room": "SMB",
+        "number": "01345"
+    },
+    {
+        "room": "SMB",
+        "number": "01354"
+    },
+    {
+        "room": "SMB",
+        "number": "01402"
+    },
+    {
+        "room": "SMB",
+        "number": "01420"
+    },
+    {
+        "room": "SMB",
+        "number": "01421"
+    },
+    {
+        "room": "SMB",
+        "number": "01439"
+    },
+    {
+        "room": "SMB",
+        "number": "01440"
+    },
+    {
+        "room": "SMB",
+        "number": "01535"
+    },
+    {
+        "room": "SMB",
+        "number": "01630A"
+    },
+    {
+        "room": "SMB",
+        "number": "01642B"
+    },
+    {
+        "room": "SMB",
+        "number": "01659"
+    },
+    {
+        "room": "SMB",
+        "number": "01818"
+    },
+    {
+        "room": "SMB",
+        "number": "01846"
+    },
+    {
+        "room": "SMB",
+        "number": "02449"
+    },
+    {
+        "room": "SMB",
+        "number": "02646"
+    },
+    {
+        "room": "SMB",
+        "number": "B00425"
+    },
+    {
+        "room": "SMB",
+        "number": "B00429"
+    },
+    {
+        "room": "SMB",
+        "number": "B00431"
+    },
+    {
+        "room": "SMB",
+        "number": "B00544"
+    },
+    {
+        "room": "SMB",
+        "number": "B00648"
+    },
+    {
+        "room": "SMB",
+        "number": "B00665A"
+    },
+    {
+        "room": "SMB",
+        "number": "B00674"
+    },
+    {
+        "room": "SMB",
+        "number": "B00686"
+    },
+    {
+        "room": "SPROUL",
+        "number": "00110A"
+    },
+    {
+        "room": "TERASKI",
+        "number": "01100"
+    },
+    {
+        "room": "WASSRMN",
+        "number": "00437"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "01033"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "01039"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "01044"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "01049"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "01067"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "01077"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "01089"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "01096"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "01110"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "01111"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "01336"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "01337"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "01340"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "01343"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "01370"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "01379"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "02033"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "02050"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "02200"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "02336"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "02337"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "02343"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "02370"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "02379"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "03047"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "03064"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "03069"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "03085B"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "03096"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "03336"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "03337"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "03340"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "03370"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "04067"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "04085F"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "04216"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "04232"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "04335"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "04336"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "04340"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "04341"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "04346"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "04350"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "05076"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "06072"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "06073"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "06085"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "06086"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "06096"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "06110"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "CS00024"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "CS00050"
+    },
+    {
+        "room": "WGYOUNG",
+        "number": "CS00076"
+    },
+    {
+        "room": "WOODEN",
+        "number": "01402"
+    },
+    {
+        "room": "WOODEN",
+        "number": "02320"
+    },
+    {
+        "room": "YRL",
+        "number": "11360"
+    },
+    {
+        "room": "YRL",
+        "number": "11630F"
+    },
+    {
+        "room": "YRL",
+        "number": "11630L"
+    },
+    {
+        "room": "YRL",
+        "number": "23167"
+    },
+    {
+        "room": "YRL",
+        "number": "A01713A"
+    }
+]
