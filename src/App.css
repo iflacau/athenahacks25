@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+
+* {
+  font-family: 'Roboto Mono', monospace;
+}
+ 
+
+@font-face {
+  font-family: 'MyCustomFont';
+  src: url('/public/Chunk-8RyJ.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(to bottom, #292967, #000000); /* Dark gradient */
+  color: white;
+  text-align: center;
+}
+
+
+.mainimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  margin-top: 30px;
+  margin-bottom: -40px;
+}
+
+.text {
+  margin-bottom: 100px;
+  font-family: Sixtyfour, sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  line-height: normal;
+  text-shadow: 3px 3px 8px rgba(0, 153, 255, 0.8); /* Blue glow effect */
+  line-height: 1.5;
+
+}
+
+.button {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
