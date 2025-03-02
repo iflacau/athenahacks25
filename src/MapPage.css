@@ -1,0 +1,34 @@
+.map-image {
+    position: relative;
+    width: 100%;  /* Full viewport width */
+    height: 100%; /* Full viewport height */
+    object-fit: cover; /* Maintain aspect ratio and cover entire screen */
+    
+  }
+
+  .map-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #292967;
+    color: white;
+    text-align: center;
+  }
+
+  .map-button {
+    position: absolute;
+    width: 3px; /* Adjust size */
+    height: 15px;
+    background-color: #476bfe; /* Change color as needed */
+    border: 2px solid white;
+    border-radius: 50%; /* Makes it circular */
+    cursor: pointer;
+    transition: transform 0.2s, background-color 0.2s;
+  }
+  
+  .map-button:hover {
+    transform: scale(1.3); /* Slight enlargement on hover */
+    background-color: yellow; /* Change color on hover */
+  }
